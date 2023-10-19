@@ -1,0 +1,15 @@
+body{
+    background-color: burlywood;
+}
+.Audio_segment{
+    display: flex;
+    position: center;
+    justify-content: space-around;
+}
+.text_examples_class_css{
+    background-color: thistle;
+    border: 50px;
+    border-radius: 15px;
+    border-color: black;
+    text-align: center;
+}
