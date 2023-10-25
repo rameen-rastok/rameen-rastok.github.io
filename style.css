@@ -1,0 +1,52 @@
+body{
+    background-color: burlywood;
+}
+.Audio_segment{
+    display: flex;
+    position: center;
+    justify-content: space-around;
+}
+.text_examples_class_css{
+    background-color: thistle;
+    border: 50px;
+    border-radius: 15px;
+    border-color: black;
+    text-align: center;
+}
+.free-period-header{
+    display: flex;
+    position: center;
+}
+.free-period-table{
+    display: flex;
+    position: center;
+}
+#Welcome-Header{
+    font-family: verdana, 'Times New Roman', Arial;
+}.headings-examples{
+    font-family: "lucida console", "Segoe UI";
+}
+.forms-section{
+    size: 200%;
+    position: center;
+}
+.pagination{
+    text-align: center;
+}
+.pagination a{
+    color: black;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+}
+.pagination a.Current_Page{
+    background-color: cyan;
+    font-weight: bold;
+    border-radius: 10px;
+    border: solid;
+    border-color: black;
+}
+.pagination a:hover:not(.Current_Page){
+    border-radius: 10px;
+    background-color: lightgrey;
+}
