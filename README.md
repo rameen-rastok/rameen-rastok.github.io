@@ -1,7 +1,4 @@
 # rameen-rastok.github.io
-This is a basic static website. I am following a Youtube Tutorial made by BroCode on HTML and CSS and wanted somewhere to host the website for fun.
-I am just an average guy learning Computer Science so this website may change as I learn more.
-Please note that the forms submission on the website does not work and will cause a 404 error so don't use it, the reason is that I have not made a PHP file and do not want to learn PHP yet.
-I also think that GitHub pages doesn't support PHP since its backend maybe.
-I don't own the rights to the lyrics webpage that is owned by Rick Astley :)
-Have a good day.
+This is a revamped version of a website I made in my free time by following online courses such as from "Brocode" and "FreeCodeCamp" on YouTube.
+The previous version of this website was a messy testing ground for HTML and CSS as I wanted to broaden my programming skills for fun as well as potentially for my future.
+This new version of the website is much cleaner and polished than my previous attempt, and makes use of all of the skills I have learnt.
