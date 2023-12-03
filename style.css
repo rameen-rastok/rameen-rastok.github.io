@@ -520,7 +520,7 @@ footer{
 
 @media only screen and (max-width:600px){
     #rps-image{
-        max-width: 300px;
+        max-width: 280px;
         max-height: 300px;
     }
 }
